@@ -1,0 +1,109 @@
+UserID: 1152775298 | Time: 2024-10-08 00:07:27.452408 | Command: /bgmi | Target: 20.204.16.45 | Port: 11167 | Time: 300
+Username: @FreakyPrateek
+Target: 20.204.16.45
+Port: 11167
+Time: 300
+
+UserID: 1152775298 | Time: 2024-10-08 00:10:04.028528 | Command: /bgmi | Target: 20.235.92.240 | Port: 19600 | Time: 300
+Username: @FreakyPrateek
+Target: 20.235.92.240
+Port: 19600
+Time: 300
+
+UserID: 1152775298 | Time: 2024-10-08 00:20:10.086319 | Command: /bgmi | Target: 20.235.143.195 | Port: 18533 | Time: 120
+Username: @FreakyPrateek
+Target: 20.235.143.195
+Port: 18533
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 00:22:19.614881 | Command: /bgmi | Target: 20.235.143.195 | Port: 18533 | Time: 120
+Username: @FreakyPrateek
+Target: 20.235.143.195
+Port: 18533
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 00:24:22.792797 | Command: /bgmi | Target: 20.235.143.195 | Port: 18533 | Time: 120
+Username: @FreakyPrateek
+Target: 20.235.143.195
+Port: 18533
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 00:26:35.947585 | Command: /bgmi | Target: 20.235.143.195 | Port: 18533 | Time: 120
+Username: @FreakyPrateek
+Target: 20.235.143.195
+Port: 18533
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 00:28:38.591044 | Command: /bgmi | Target: 20.235.143.195 | Port: 18533 | Time: 120
+Username: @FreakyPrateek
+Target: 20.235.143.195
+Port: 18533
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:04:55.790119 | Command: /bgmi | Target: 20.219.3.239 | Port: 27260 | Time: 120
+Username: @FreakyPrateek
+Target: 20.219.3.239
+Port: 27260
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:07:16.623489 | Command: /bgmi | Target: 20.219.3.239 | Port: 27260 | Time: 120
+Username: @FreakyPrateek
+Target: 20.219.3.239
+Port: 27260
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:09:30.950695 | Command: /bgmi | Target: 20.219.3.239 | Port: 27260 | Time: 120
+Username: @FreakyPrateek
+Target: 20.219.3.239
+Port: 27260
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:19:29.762535 | Command: /bgmi | Target: 20.198.78.134 | Port: 23819 | Time: 200
+Username: @FreakyPrateek
+Target: 20.198.78.134
+Port: 23819
+Time: 200
+
+UserID: 1152775298 | Time: 2024-10-08 01:22:53.532612 | Command: /bgmi | Target: 20.198.78.134 | Port: 23819 | Time: 120
+Username: @FreakyPrateek
+Target: 20.198.78.134
+Port: 23819
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:24:57.051365 | Command: /bgmi | Target: 20.198.78.134 | Port: 23819 | Time: 120
+Username: @FreakyPrateek
+Target: 20.198.78.134
+Port: 23819
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:26:59.317111 | Command: /bgmi | Target: 20.198.78.134 | Port: 23819 | Time: 120
+UserID: 1152775298 | Time: 2024-10-08 01:26:59.369279 | Command: /bgmi | Target: 20.198.78.134 | Port: 23819 | Time: 120
+Username: @FreakyPrateek
+Target: 20.198.78.134
+Port: 23819
+Time: 120
+
+Username: @FreakyPrateek
+Target: 20.198.78.134
+Port: 23819
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:33:46.411328 | Command: /bgmi | Target: 20.235.93.186 | Port: 18385 | Time: 120
+UserID: 1152775298 | Time: 2024-10-08 01:57:23.421764 | Command: /bgmi | Target: 20.204.189.126 | Port: 10079 | Time: 120
+Username: @FreakyPrateek
+Target: 20.204.189.126
+Port: 10079
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 01:59:26.432191 | Command: /bgmi | Target: 20.204.189.126 | Port: 10079 | Time: 120
+Username: @FreakyPrateek
+Target: 20.204.189.126
+Port: 10079
+Time: 120
+
+UserID: 1152775298 | Time: 2024-10-08 02:01:57.799193 | Command: /bgmi | Target: 20.204.189.126 | Port: 10079 | Time: 120
+Username: @FreakyPrateek
+Target: 20.204.189.126
+Port: 10079
+Time: 120
+
